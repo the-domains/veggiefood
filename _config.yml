@@ -1,0 +1,14 @@
+layout_spectrum: 0.2131096322555095
+typography_spectrum: 0.46910030907019973
+color:
+  brandStrength: 0.6736778081394732
+  lightness: 0.49898976017721
+  saturation: 0.7525734461378306
+  rhythmicContrast: 0.85676175262779
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: veggieFood
