@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[veggieFood]]></title>
         <description><![CDATA[veggieFood]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/veggiefood/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 23 Apr 2016 08:29:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/veggiefood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[There & Back Again: A Cross-Country Epic]]></title>
+            <description><![CDATA[<article><h1>There & Back Again: A Cross-Country Epic</h1><p>It's usually late February or early March when I load up my vehicle with tools of photographic wonder to embark on a journey from Asheville, NC into the unknown and across the U.S. Destination: Las Vegas. WPPI to be exact, where I have been an educator there since 2002.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b9656e1adc0b7119ac419bcd54748f5ecfdf92.jpg"></article>]]></description>
+            <link>https://alphauniverse.com/stories/there-and-back-again--a-cross-country-epic/</link>
+            <guid isPermaLink="false">07411294-60f1-4be3-ae06-7b2c4d5ac7e2</guid>
+            <pubDate>Sat, 23 Apr 2016 08:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portraits of Dogs as They Shake Off Water]]></title>
             <description><![CDATA[<article><h1>Portraits of Dogs as They Shake Off Water</h1><p>For her series " Shake", pet photographer Carli Davidson photographed curious portraits of dogs shaking off water. Use a fast shutter speed and you can capture all kinds of strange expressions on your dog's face. You can find the rest of the photographs in the series here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dccb8bf195de936f7fd6d736006e28abcefa5a63.jpg"></article>]]></description>
