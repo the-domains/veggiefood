@@ -4,8 +4,15 @@
         <description><![CDATA[veggieFood]]></description>
         <link>https://thegrid.ai/veggiefood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 08:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 00:47:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/veggiefood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a dog]]></title>
+            <description><![CDATA[<article><h1>This is a dog</h1><p>Hello @cbchouinard, nice pic. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dccb8bf195de936f7fd6d736006e28abcefa5a63.jpg"></article>]]></description>
+            <link>http://petapixel.com/2011/07/28/portraits-of-dogs-as-they-shake-off-water/</link>
+            <guid isPermaLink="false">087939b9-d851-4ed7-9b84-10a6d08ed11c</guid>
+            <pubDate>Sat, 27 Aug 2016 00:47:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winners of the 2015 iPhone Photography Awards Announced]]></title>
             <description><![CDATA[<article><h1>Winners of the 2015 iPhone Photography Awards Announced</h1><p>NEW YORK - June 15, 2015 - The iPhone Photography Awards™ (IPPAWARDS) is proud to announce the winners of the 8th Annual Awards. They were selected from thousands of entries submitted by iPhone photographers from 120 countries around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3682134737542db758520dcb5c569d0c5b326f1d.jpg"></article>]]></description>
@@ -18,13 +25,6 @@
             <description><![CDATA[<article><h1>There & Back Again: A Cross-Country Epic</h1><p>It's usually late February or early March when I load up my vehicle with tools of photographic wonder to embark on a journey from Asheville, NC into the unknown and across the U.S. Destination: Las Vegas. WPPI to be exact, where I have been an educator there since 2002.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b9656e1adc0b7119ac419bcd54748f5ecfdf92.jpg"></article>]]></description>
             <link>https://alphauniverse.com/stories/there-and-back-again--a-cross-country-epic/</link>
             <guid isPermaLink="false">07411294-60f1-4be3-ae06-7b2c4d5ac7e2</guid>
-            <pubDate>Sat, 23 Apr 2016 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portraits of Dogs as They Shake Off Water]]></title>
-            <description><![CDATA[<article><h1>Portraits of Dogs as They Shake Off Water</h1><p>For her series " Shake", pet photographer Carli Davidson photographed curious portraits of dogs shaking off water. Use a fast shutter speed and you can capture all kinds of strange expressions on your dog's face. You can find the rest of the photographs in the series here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dccb8bf195de936f7fd6d736006e28abcefa5a63.jpg"></article>]]></description>
-            <link>http://petapixel.com/2011/07/28/portraits-of-dogs-as-they-shake-off-water/</link>
-            <guid isPermaLink="false">087939b9-d851-4ed7-9b84-10a6d08ed11c</guid>
             <pubDate>Sat, 23 Apr 2016 08:29:02 GMT</pubDate>
         </item>
     </channel>
