@@ -1,6 +1,4 @@
-layout_spectrum: 0.2131096322555095
 typography_spectrum: 0.46910030907019973
-style: the-composer
 color:
   brandStrength: 0.6736778081394732
   lightness: 0.49898976017721
@@ -12,4 +10,6 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.2131096322555095
 name: veggieFood
+title: Veggie stuff
