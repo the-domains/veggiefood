@@ -4,7 +4,7 @@
         <description><![CDATA[Veggie stuff]]></description>
         <link>https://thegrid.ai/veggiefood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 14:03:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/veggiefood/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cool pic]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Sat, 23 Apr 2016 08:29:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[This is a magic dog 2]]></title>
-            <description><![CDATA[<article><h1>This is a magic dog 2</h1><p>Hello @cbchouinard, nice pic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dccb8bf195de936f7fd6d736006e28abcefa5a63.jpg"></article>]]></description>
+            <title><![CDATA[This is a magic dog 3]]></title>
+            <description><![CDATA[<article><h1>This is a magic dog 3</h1><p>Hello @cbchouinard, nice pic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dccb8bf195de936f7fd6d736006e28abcefa5a63.jpg"></article>]]></description>
             <link>http://petapixel.com/2011/07/28/portraits-of-dogs-as-they-shake-off-water/</link>
             <guid isPermaLink="false">087939b9-d851-4ed7-9b84-10a6d08ed11c</guid>
-            <pubDate>Sat, 27 Aug 2016 01:02:14 GMT</pubDate>
+            <pubDate>Mon, 29 Aug 2016 14:03:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
